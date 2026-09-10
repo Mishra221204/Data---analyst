@@ -1,2 +1,2 @@
 # Data---analyst
-Data analysis  program all skill
+Data analysis  program  - Python and Python library Pandas,Numpy
